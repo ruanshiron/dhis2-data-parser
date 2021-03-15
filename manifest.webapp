@@ -1,0 +1,19 @@
+{
+    "version": "0.1.1",
+    "name": "p2CustomReport",
+    "description": "",
+    "appType": "RESOURCE",
+    "developer": {
+        "name": "",
+        "url": ""
+    },
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "*"
+        }
+    },
+    "authorities": [
+        "P2_CUSTOM_REPORT"
+    ]
+}
