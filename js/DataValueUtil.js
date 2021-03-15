@@ -218,3 +218,5 @@ function dvu() {
         getLastesPeriodValueByAncestor: getLastesPeriodValueByAncestor
     }
 }
+
+export default p2ild;
